@@ -1,4 +1,4 @@
 # JonathanBinns.github.io
-Hi! I'm an experienced python programmer who's here to save the world.
+Hi! I'm an experienced python programmer and aspiring game developer.
 
 Here's my work: https://github.com/JonathanBinns

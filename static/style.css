@@ -1,0 +1,31 @@
+body {
+  background-color: #bbccf5
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center
+}
+
+h2 {
+  font-size: 33px;
+  text-align: left;
+  margin: 10px
+}
+
+p {
+  font-size: 22px;
+  text-align: left;
+  margin: 10px;
+  text-indent: 40px
+}
+
+article {
+  position: absolute;
+  margin: 20px;
+  top: 0%;
+  bottom: 0%;
+  right: 10%;
+  left: 10%;
+  border: 10px solid #1f3975
+}
